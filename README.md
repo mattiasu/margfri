@@ -1,2 +1,4 @@
-margfri
+margareta frid
+django
+python
 =======
