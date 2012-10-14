@@ -1,4 +1,3 @@
 margareta frid
-django
-python
+django,python
 =======
