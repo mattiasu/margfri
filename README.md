@@ -1,4 +1,6 @@
-margareta frid
-django
-python
+# margfri
+
+* django
+* python
+
 =======
